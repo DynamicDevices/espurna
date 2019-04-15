@@ -582,7 +582,7 @@
 #endif
 
 #ifndef MDNS_CLIENT_SUPPORT
-#define MDNS_CLIENT_SUPPORT         0           // Resolve mDNS names (3.44Kb)
+#define MDNS_CLIENT_SUPPORT         1           // Resolve mDNS names (3.44Kb)
 #endif
 
 #ifndef LLMNR_SUPPORT
